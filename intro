@@ -1,0 +1,20 @@
+Design Pattern in Android (Kotlin)
+
+A Pattern which provides reusability of code.
+
+Most Common used pattern in Android
+1. Creational pattern : Creational pattern used for creating objects without
+showing How they created.
+Examples - Builder, Singleton, Dependency injection, Factory
+
+2. Structural pattern : Structural pattern used for structure class. A structured
+class is easy to understand and easy to read.
+Examples - Adapter, Facade (Decorator, Composite (Mostly not used))
+
+3. Behavioral pattern : In Behavioral pattern, we don't know how data
+will behave in future. We don't know, Which class/Object will responsible for
+doing something in future.
+Examples - Listeners, LiveData, Observer, RxAndroid
+
+
+
